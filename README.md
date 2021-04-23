@@ -1,0 +1,2 @@
+# FAPS_Project_Simple_LSB_encoder_decoder
+FAPS Steganography project
